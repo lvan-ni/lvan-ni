@@ -6,10 +6,6 @@
 
 🔍 Exploring innovative ways where design & technology intersect to make the web more user-centric.
 
-📚 Always learning, always coding. Check out my repositories to see what I'm up to!
-
-🌍 Based in Stockholm, Sweden.
-
 
 
 
