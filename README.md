@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on a portfolio website for a friend of mine. It's been super fun to explore how to use animation to create useful and fun moments with Framer Motion.
+🔭 I’m currently working on a portfolio website for a friend of mine as well as organsing and fixing some previous projects. It's been super fun to explore how to use animation to create useful and fun moments with Framer Motion. 
 
 😁 Feel free to follow my progress on [my portfolio](https://www.lvanni.org) and reach out.
 
@@ -9,6 +9,7 @@
 👨🏻‍💻 Currently navigating the full-stack world, I'm passionate about fusing design principles with web development to craft compelling digital experiences.
 
 ✨ Where design & technology intersect is where magic happens for me.
+
 
 
 <!--
