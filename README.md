@@ -1,14 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Lvan
 
 🔭 I’m currently working on a portfolio website for a friend of mine as well as organsing and fixing some previous projects.
 
 😁 Feel free to follow my progress on [my portfolio](https://www.lvanni.org) and reach out.
 
-🦄 From a decade in graphic design to diving deep into code, in my blend of aesthetics and algorithms dream.
+🦄 From a decade in graphic design to a SALT Stockholm full-stack graduate, I'm in my blend of aesthetic and algroithm dream with new found power of code.
 
-👨🏻‍💻 Currently navigating the full-stack world, I'm passionate about fusing design principles with web development to craft compelling digital experiences.
-
-✨ Where design & technology intersect is where magic happens for me.
+👨🏻‍💻 I'm passionate about fusing design principles with web development to craft compelling digital experiences.
 
 
 
