@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🔭 I’m currently working on a portfolio website for a friend of mine. It's been super fun to explore how to use animation with Framer Motion.
+🔭 I’m currently working on a portfolio website for a friend of mine. It's been super fun to explore how to use animation to create useful and fun moments with Framer Motion.
 
-😁 Feel free to follow my progress on [my portfolio](https://www.lvanni.org) and reach out
+😁 Feel free to follow my progress on [my portfolio](https://www.lvanni.org) and reach out.
 
-🦄 From a decade in graphic design to diving deep into code, my journey's been a blend of aesthetics and algorithms.
+🦄 From a decade in graphic design to diving deep into code, in my blend of aesthetics and algorithms dream.
 
 👨🏻‍💻 Currently navigating the full-stack world, I'm passionate about fusing design principles with web development to craft compelling digital experiences.
 
