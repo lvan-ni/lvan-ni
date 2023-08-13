@@ -2,6 +2,10 @@
 
 🔭 I’m currently working on a portfolio website for a friend of mine. It's been super fun to explore how to use animation with Framer Motion.
 
+😁 Feel free to follow my progress on my website and reach out 
+[my portfolio](https://www.lvanni.org)
+
+
 🦄 From a decade in graphic design to diving deep into code, my journey's been a blend of aesthetics and algorithms.
 
 👨🏻‍💻 Currently navigating the full-stack world, I'm passionate about fusing design principles with web development to craft compelling digital experiences.
