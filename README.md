@@ -4,7 +4,7 @@
 
 😁 Feel free to follow my progress on [my portfolio](https://www.lvanni.org) and reach out.
 
-🦄 From a decade in graphic design to a SALT Stockholm Full-Stack graduate, I'm in my blend of aesthetic and algroithm dream with new found power of code.
+🦄 From a decade in Graphic Design to a Full-Stack developer at SALT. Obsessed (& sometimes annoyed) at the magic of coding.
 
 👨🏻‍💻 I'm passionate about fusing design principles with web development to craft compelling digital experiences.
 
