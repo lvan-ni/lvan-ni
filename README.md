@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Lvan
 
-🔭 I’m currently working on a portfolio website for a friend of mine as well as organsing and fixing some previous projects.
+🛠️ I’m currently working on a portfolio website for a friend of mine as well as organsing and fixing some previous projects.
 
 😁 Feel free to follow my progress on [my portfolio](https://www.lvanni.org) and reach out.
 
