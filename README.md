@@ -4,7 +4,7 @@
 
 😁 You are welcome to track my journey on [my portfolio](https://www.lvanni.org) and connect with me anytime.
 
-🦄 From a decade in Graphic Design to a Full-Stack developer at SALT. Obsessed (& sometimes annoyed) at the magic of coding.
+🦄 From a decade in Graphic Design to a Full-Stack developer at SALT. Obsessed with the magic of coding.
 
 👨🏻‍💻 I'm passionate about fusing design principles with web development to craft compelling digital experiences.
 
