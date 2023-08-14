@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Lvan
 
-🛠️ I’m currently working on a portfolio website for a friend of mine as well as organsing and fixing some previous projects.
+🛠️ I’m currently working on a portfolio website for a friend of mine as well as organsing and refining several of my past projects.
 
-😁 Feel free to follow my progress on [my portfolio](https://www.lvanni.org) and reach out.
+😁 You are welcome to track my journey on [my portfolio](https://www.lvanni.org) and connect with me anytime.
 
 🦄 From a decade in Graphic Design to a Full-Stack developer at SALT. Obsessed (& sometimes annoyed) at the magic of coding.
 
