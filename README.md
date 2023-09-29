@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Lvan
 
-🛠️ I'm curretnly working on updating the whole [skolplattformen](https://github.com/kolplattformen/skolplattformen) repo to the latest dependecies and set-ups so that we can continue contribute.
+🛠️ I'm curretnly working on updating the whole [skolplattformen](https://github.com/kolplattformen/skolplattformen) repo to the latest dependecies and set-ups so that we can continue to contribute.
 
 👯 while finishing up a portfolio website for a friend of mine and refining several of my past projects.
 
