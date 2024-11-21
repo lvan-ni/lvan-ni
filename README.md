@@ -1,28 +1,24 @@
 ### Hi there 👋 I'm Lvan
 
-🛠️ I'm curretnly working on updating the whole [skolplattformen](https://github.com/kolplattformen/skolplattformen) repo to the latest dependecies and set-ups so that we can continue to contribute.
+🛠️ I'm currently working as a developer at **Angels Digital Studio**, focusing on creating innovative and user-centered digital solutions. My role combines creative problem-solving with cutting-edge technology to deliver impactful results.
 
-👯 while finishing up a portfolio website for a friend of mine and refining several of my past projects.
+✨ Over the past six months, I’ve been honing my skills as a **creative, product-oriented developer**, with a strong focus on front-end development, UX, and creative tech solutions.
 
-😁 You are welcome to track my journey on [my portfolio](https://www.lvanni.org) and connect with me anytime.
+🌱 I’m always learning and experimenting with new technologies to expand my expertise in front-end development, SaaS solutions, and creative coding.
 
-🦄 From a decade in Graphic Design to a Full-Stack developer at SALT. Obsessed with the magic of coding.
+💡 My current projects include:
+- Building and maintaining **modern marketing websites** with dynamic, modular setups.
+- Designing seamless user experiences for **QR code microsite generation tools** and other creative tech solutions.
+- Exploring better ways to integrate design and development for **scalable and maintainable** products.
 
-👨🏻‍💻 I'm into problem-solving, creating meaningful & useful products or services.
+🌟 From a decade in Graphic Design to a Full-Stack Developer, my journey has been fueled by a passion for combining creativity with technology.
+
+👯 I’m always open to collaboration on meaningful projects that inspire curiosity and innovation. 
 
 
+⚡ Outside of coding, I enjoy:
+- Exploring **dance and contemporary art** to stay creatively inspired.
+- Diving into **psychology and philosophy** to understand the world and its people better.
+- Pursuing **mindful growth** and balancing technical and creative pursuits.
 
-<!--
-**lvan-ni/lvan-ni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let’s get in touch! Whether it’s about tech, design, or just a good book recommendation, I’d love to hear from you.
